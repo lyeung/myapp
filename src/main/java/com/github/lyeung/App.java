@@ -5,7 +5,7 @@ package com.github.lyeung;
  */
 public class App {
 
-    private int var1;
+    private int name;
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
